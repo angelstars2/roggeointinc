@@ -1,3 +1,3 @@
 # roggeointinc
 
-recreating a [wixsite design](www.roggeointl.com) with responsiveness.
+recreating a [wixsite design](https://www.roggeointl.com/) with responsiveness.
